@@ -3,7 +3,7 @@
   <groupId>test</groupId>
   <artifactId>TestHib</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-</project>
+
 
 
 <dependencies>
@@ -18,11 +18,11 @@
 </dependency>
 
 <!-- for JPA, use hibernate-entitymanager instead of hibernate-core -->
-<dependency>
+<!--  dependency>
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-entitymanager</artifactId>
     <version>4.3.6.Final</version>
-</dependency>
+</dependency-->
 
 <!-- optional -->
 <dependency>
@@ -69,3 +69,6 @@
 
 
 </dependencies>
+
+
+</project>
