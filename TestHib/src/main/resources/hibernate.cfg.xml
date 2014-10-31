@@ -28,7 +28,8 @@
    <property name="hbm2ddl.auto">create</property> 
 
    <!-- List of XML mapping files -->
-   <mapping class="org.arpit.javapostsforlearning.User"></mapping>  
+   <mapping class="org.arpit.javapostsforlearning.Capital"></mapping>
+   <mapping class="org.arpit.javapostsforlearning.Country"></mapping>    
 
 </session-factory>
 </hibernate-configuration>
